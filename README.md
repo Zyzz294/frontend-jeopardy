@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Zyzz294/frontend-jeopardy/issues/1#issue-2032387514" width="50" height="50" />
+<img src="https://github.com/Zyzz294/frontend-jeopardy/issues/1#issue-2032387514" width="500" height="500" />
 
 
 # Getting Started with Create React App
