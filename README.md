@@ -1,3 +1,7 @@
+
+<img src="https://github.com/Zyzz294/frontend-jeopardy/issues/1#issue-2032387514" width="50" height="50" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
